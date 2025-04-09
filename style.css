@@ -2,10 +2,14 @@ body{
     background-color: rgb(231, 217, 237);
  text-align: center;
 }
-h1 {
-    font-style: italic;
-    color: rgb(214, 59, 150);
+ h1 {
+    color: rgb(214, 59, 150); 
+    font-size: 3em;
+    font-weight: bold;
 }
 h2{
     text-align: center;
+}
+h3{
+    font-weight: bold;
 }
