@@ -3,14 +3,14 @@ body{
  text-align: center;
 }
  h1 {
-    color: rgb(214, 59, 150); 
+    color: rgb(0, 17, 43); 
     font-size: 3em;
     font-weight: bold;
 }
 h2{
     text-align: center;
-    color: aqua;
 }
 h3{
     font-weight: bold;
+    color: dimgray;
 }
